@@ -1,33 +1,20 @@
+<img src="https://i.imgur.com/qMAO9G4.jpg" alt="battlefield equipment rentals logo"/>
+
 # Small Equipment Tool Sell-Off
+A front-end web application built to display and filter product data fetched from an API, providing users with a fast, accessible, and intuitive browsing experience.
 
-The front-end web application for the Small Equipment Tool Sell-Off (S.E.T.S) aims to display data fetched from an API in a table format. Filtering functionality will also be available.
+## Tech Stack
+React, Zustand (Global State Management), TypeScript, REST API, WCAG 2.1 AODA AA compliant
 
-## Project Description
+## Features
+- Dynamic data table displaying Product #, Serial #, Description, Manufacturer, Location, and Pricing
+- Clickable city names linking to corresponding location pages
+- Advanced filtering by manufacturer, province, city, and price range
+- Search functionality for quick lookups by product or serial number
+- Pagination and URL parameterization for smooth navigation and deep linking
+- Full accessibility compliance with WCAG 2.1 AODA AA standards
 
-The application will include the following features:
+## Demo
+https://www.battlefieldequipment.ca/small-equipment-tool-sell-off
 
-- Displaying a table with columns: Product #, Serial #, Description, Manufacturer, Province, City, Regular Price, and Sale Price.
-- Clickable city text in each table row, linking to specific city pages on the website.
-- Search functionality for filtering data by product #, serial #, manufacturer, province or city.
-- Filtering options for manufacturer, province, city, and price range.
-- Pagination functionality to seamlessly navigate through screen renders.
-- Clearing/resetting filters and search queries.
-- URL parameterization to reflect applied filters and search queries.
-- Adhering to WCAG 2.1 AODA AA guidelines for accessibility.
-
-## Installation
-
-Clone the repository:
-git clone https://toromontmarketing.visualstudio.com/CMS-Internet/_git/Small%20Equipment%20Tool%20Sell-Off
-
-Navigate to the project directory:
-cd your-project
-
-Install dependencies:
-yarn
-
-Run the project:
-yarn dev
-
-Open the browser and visit:
-http://127.0.0.1:5173/
+<img src="https://i.imgur.com/fCYVa3J.png" alt="sets"/>
