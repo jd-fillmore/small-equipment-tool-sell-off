@@ -1,0 +1,66 @@
+@import "../styles/variables.scss";
+
+.jobsite-env {
+  .header-area {
+    svg {
+      color: $js-light-green !important;
+    }
+  }
+  .search-icon {
+    color: $js-light-green;
+  }
+  th.sale-header {
+    background: $js-dark-green !important;
+    color: #000 !important;
+  }
+  .sale-price {
+    background: $js-light-green !important;
+    color: $js-grey !important;
+  }
+  .chakra-table a {
+    color: $js-dark-green;
+    font-size: 10px !important;
+  }
+  .header-area .rc-slider-handle {
+    border: solid 2px $js-dark-green;
+  }
+  .header-area .rc-slider-step {
+    background: $js-light-green;
+  }
+  .header-area .chakra-button {
+    background: $js-light-green;
+    &:hover {
+      background: $js-grey;
+      color: $white;
+    }
+  }
+  // Adjustments for Jobsite SETS website page (styles were overriding)
+  .header-area .chakra-select__wrapper,
+  .header-area .chakra-input {
+    width: auto !important;
+  }
+  input,
+  select {
+    margin-bottom: 0px !important;
+    padding: 10px !important;
+  }
+  .chakra-table td {
+    font-family: "Montserrat", sans-serif !important;
+  }
+  .pagination li.active a {
+    background-color: $js-light-green;
+  }
+  .chakra-table {
+    span {
+      margin-left: 2px;
+      &.asc,
+      &.dsc {
+        color: $js-grey;
+
+        &.active {
+          color: $js-dark-green;
+        }
+      }
+    }
+  }
+}

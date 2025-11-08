@@ -1,0 +1,38 @@
+@import "../../../styles/breakpoints.scss";
+@import "../../../styles/variables.scss";
+
+.header-area {
+  padding-top: 40px;
+  margin-bottom: 20px;
+  .chakra-select__wrapper,
+  .chakra-input {
+    width: 160px;
+    @include bp-tablet-sm {
+      width: 100% !important;
+      display: block !important;
+    }
+    svg {
+      color: $yellow !important;
+    }
+  }
+  .chakra-select {
+    height: 40px;
+  }
+  .rc-slider-step {
+    background: $yellow;
+  }
+  .rc-slider-handle {
+    border: solid 2px $red;
+  }
+  .chakra-button {
+    background: $yellow;
+  }
+}
+
+.header-loading {
+  display: none;
+}
+
+.intro {
+  margin-top: 40px;
+}

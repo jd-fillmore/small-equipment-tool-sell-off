@@ -1,0 +1,849 @@
+{
+  "groups": [
+    {
+      "group-code": "Work Tools - Outils De Travail",
+      "group-display-name": "Attachments",
+      "count": 71,
+      "equipments": [
+        {
+          "id": "10041770",
+          "dealer-name": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+          "stock-number": "OKL5742312",
+          "GroupName": "Compact Track Loader",
+          "GroupCode": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+          "product-family-code": "CTL",
+          "product-family": "COMPACT TRACK LOADER",
+          "product-family-display-name": "Compact Track Loader",
+          "manufacturer-code": "CAT",
+          "manufacturer": "CATERPILLAR",
+          "model": "299D3XE",
+          "description": "Description goes here",
+          "serial-number": "BX901346",
+          "year": "2020",
+          "hours": 2417,
+          "city": "Waco",
+          "state": "TX",
+          "sku": "N001|BFE|10041770",
+          "inspection-link": "https://tws.toromont.ca/ToromontCAT/ServiceHub/PublicInfo/ecomm/inspection?sku=N001|BFE|10041770",
+          "certification": "No Certification",
+          "certification-code": "NCR",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "55000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "65000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACK LOADER - COMPACT TRACK LOADER",
+              "category-display-name": "Compact Track Loader"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://ajx6ymlqwk3d.s3.ca-central-1.amazonaws.com/home-skid.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041772",
+          "dealer-name": "HEAVY EQUIPMENT DEALERSHIP LLC",
+          "stock-number": "ABC123456",
+          "GroupName": "Excavator",
+          "GroupCode": "EXCAVATOR - HEAVY EXCAVATOR",
+          "product-family-code": "EXC",
+          "product-family": "HEAVY EXCAVATOR",
+          "product-family-display-name": "Heavy Excavator",
+          "manufacturer-code": "KOMATSU",
+          "manufacturer": "KOMATSU",
+          "model": "PC350LC-8",
+          "description": "High-performance heavy excavator",
+          "serial-number": "KM987654",
+          "year": "2022",
+          "hours": 2200,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|XYZ|10041772",
+          "inspection-link": "https://example.com/inspection2",
+          "certification": "Certification2",
+          "certification-code": "CERT2",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "90000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "100000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "EXCAVATOR - HEAVY EXCAVATOR",
+              "category-display-name": "Heavy Excavator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://example.com/photo2.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041773",
+          "dealer-name": "CONSTRUCTION MACHINERY CO.",
+          "stock-number": "XYZ789012",
+          "GroupName": "Bulldozer",
+          "GroupCode": "BULLDOZER - HEAVY BULLDOZER",
+          "product-family-code": "BZD",
+          "product-family": "HEAVY BULLDOZER",
+          "product-family-display-name": "Heavy Bulldozer",
+          "manufacturer-code": "CASE",
+          "manufacturer": "CASE",
+          "model": "1850K",
+          "description": "Versatile heavy bulldozer",
+          "serial-number": "CS123456",
+          "year": "2023",
+          "hours": 1500,
+          "city": "San Antonio",
+          "state": "TX",
+          "sku": "N003|ABC|10041773",
+          "inspection-link": "https://example.com/inspection3",
+          "certification": "Certification3",
+          "certification-code": "CERT3",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "80000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "90000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "BULLDOZER - HEAVY BULLDOZER",
+              "category-display-name": "Heavy Bulldozer"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://example.com/photo3.png"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        }
+      ]
+    },
+    {
+      "group-code": "Excavators - Pelles",
+      "group-display-name": "Excavators",
+      "count": 45,
+      "equipments": [
+        {
+          "id": "10041801",
+          "dealer-name": "EXCAVATOR DEALER CORPORATION",
+          "stock-number": "XYZ123456",
+          "GroupName": "Hydraulic Excavator",
+          "GroupCode": "HYDRAULIC EXCAVATOR - HYDRAULIC EXCAVATOR",
+          "product-family-code": "HEX",
+          "product-family": "HYDRAULIC EXCAVATOR",
+          "product-family-display-name": "Hydraulic Excavator",
+          "manufacturer-code": "XYZ",
+          "manufacturer": "XYZ MANUFACTURER",
+          "model": "ABC123",
+          "description": "Another description goes here",
+          "serial-number": "DEF789",
+          "year": "2022",
+          "hours": 1800,
+          "city": "Houston",
+          "state": "TX",
+          "sku": "N002|BFE|10041801",
+          "inspection-link": "https://example.com/inspection?sku=N002|BFE|10041801",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Sold",
+          "regular-price": {
+            "currency": "USD",
+            "text": "75000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "90000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "HYDRAULIC EXCAVATOR - HYDRAULIC EXCAVATOR",
+              "category-display-name": "Hydraulic Excavator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://example.com/excavator.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041802",
+          "dealer-name": "EXCAVATOR DEALER CORPORATION",
+          "stock-number": "XYZ654321",
+          "GroupName": "Hydraulic Excavator",
+          "GroupCode": "HYDRAULIC EXCAVATOR - HYDRAULIC EXCAVATOR",
+          "product-family-code": "HEX",
+          "product-family": "HYDRAULIC EXCAVATOR",
+          "product-family-display-name": "Hydraulic Excavator",
+          "manufacturer-code": "ABC",
+          "manufacturer": "ABC MANUFACTURER",
+          "model": "XYZ456",
+          "description": "A description for XYZ456",
+          "serial-number": "GHI987",
+          "year": "2023",
+          "hours": 1500,
+          "city": "Dallas",
+          "state": "TX",
+          "sku": "N002|BFE|10041802",
+          "inspection-link": "https://example.com/inspection?sku=N002|BFE|10041802",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "80000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "95000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "HYDRAULIC EXCAVATOR - HYDRAULIC EXCAVATOR",
+              "category-display-name": "Hydraulic Excavator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://example.com/excavator2.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041803",
+          "dealer-name": "EXCAVATOR DEALER CORPORATION",
+          "stock-number": "XYZ789012",
+          "GroupName": "Hydraulic Excavator",
+          "GroupCode": "HYDRAULIC EXCAVATOR - HYDRAULIC EXCAVATOR",
+          "product-family-code": "HEX",
+          "product-family": "HYDRAULIC EXCAVATOR",
+          "product-family-display-name": "Hydraulic Excavator",
+          "manufacturer-code": "DEF",
+          "manufacturer": "DEF MANUFACTURER",
+          "model": "LMN789",
+          "description": "A description for LMN789",
+          "serial-number": "JKL543",
+          "year": "2024",
+          "hours": 1200,
+          "city": "Austin",
+          "state": "TX",
+          "sku": "N002|BFE|10041803",
+          "inspection-link": "https://example.com/inspection?sku=N002|BFE|10041803",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "85000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "100000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "HYDRAULIC EXCAVATOR - HYDRAULIC EXCAVATOR",
+              "category-display-name": "Hydraulic Excavator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://example.com/excavator3.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041804",
+          "dealer-name": "EXCAVATOR DEALER CORPORATION",
+          "stock-number": "XYZ987654",
+          "GroupName": "Compact Excavator",
+          "GroupCode": "COMPACT EXCAVATOR - COMPACT EXCAVATOR",
+          "product-family-code": "CEX",
+          "product-family": "COMPACT EXCAVATOR",
+          "product-family-display-name": "Compact Excavator",
+          "manufacturer-code": "GHI",
+          "manufacturer": "GHI MANUFACTURER",
+          "model": "JKL321",
+          "description": "A description for JKL321",
+          "serial-number": "MNO876",
+          "year": "2023",
+          "hours": 1500,
+          "city": "San Antonio",
+          "state": "TX",
+          "sku": "N002|BFE|10041804",
+          "inspection-link": "https://example.com/inspection?sku=N002|BFE|10041804",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "70000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "85000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT EXCAVATOR - COMPACT EXCAVATOR",
+              "category-display-name": "Compact Excavator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://example.com/excavator4.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        }
+      ]
+    },
+    {
+      "group-code": "Tractors - Tracteurs",
+      "group-display-name": "Tractors",
+      "count": 30,
+      "equipments": [
+        {
+          "id": "10041900",
+          "dealer-name": "TRACTOR WORLD",
+          "stock-number": "FARM987654",
+          "GroupName": "Utility Tractor",
+          "GroupCode": "UTILITY TRACTOR - UTILITY TRACTOR",
+          "product-family-code": "UT",
+          "product-family": "UTILITY TRACTOR",
+          "product-family-display-name": "Utility Tractor",
+          "manufacturer-code": "TW",
+          "manufacturer": "TRACTOR WORLD",
+          "model": "1234",
+          "description": "Description for the utility tractor",
+          "serial-number": "UTILITY789",
+          "year": "2021",
+          "hours": 1200,
+          "city": "Ruralville",
+          "state": "IL",
+          "sku": "N003|BFE|10041900",
+          "inspection-link": "https://tractorworld.com/inspection?sku=N003|BFE|10041900",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "40000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "UTILITY TRACTOR - UTILITY TRACTOR",
+              "category-display-name": "Utility Tractor"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://tractorworld.com/tractor.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041901",
+          "dealer-name": "TRACTOR LAND",
+          "stock-number": "FARM123456",
+          "GroupName": "Compact Tractor",
+          "GroupCode": "COMPACT TRACTOR - COMPACT TRACTOR",
+          "product-family-code": "CT",
+          "product-family": "COMPACT TRACTOR",
+          "product-family-display-name": "Compact Tractor",
+          "manufacturer-code": "TL",
+          "manufacturer": "TRACTOR LAND",
+          "model": "X1000",
+          "description": "Description for the compact tractor",
+          "serial-number": "CT789012",
+          "year": "2022",
+          "hours": 800,
+          "city": "Farmland",
+          "state": "IA",
+          "sku": "N004|BFE|10041901",
+          "inspection-link": "https://tractorland.com/inspection?sku=N004|BFE|10041901",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "25000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "30000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "COMPACT TRACTOR - COMPACT TRACTOR",
+              "category-display-name": "Compact Tractor"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://tractorland.com/compact-tractor.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041902",
+          "dealer-name": "AGRICULTURE SUPPLY CO.",
+          "stock-number": "FARM456789",
+          "GroupName": "Farm Tractor",
+          "GroupCode": "FARM TRACTOR - FARM TRACTOR",
+          "product-family-code": "FT",
+          "product-family": "FARM TRACTOR",
+          "product-family-display-name": "Farm Tractor",
+          "manufacturer-code": "ASC",
+          "manufacturer": "AGRICULTURE SUPPLY CO.",
+          "model": "F2000",
+          "description": "Powerful farm tractor for large-scale",
+          "serial-number": "FT987654",
+          "year": "2021",
+          "hours": 1200,
+          "city": "Ruralville",
+          "state": "IL",
+          "sku": "N004|BFE|10041902",
+          "inspection-link": "https://agrisupplyco.com/inspection?sku=N004|BFE|10041902",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "45000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "50000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "FARM TRACTOR - FARM TRACTOR",
+              "category-display-name": "Farm Tractor"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://agrisupplyco.com/farm-tractor.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10041903",
+          "dealer-name": "TRACTOR WORLD",
+          "stock-number": "FARM789012",
+          "GroupName": "Utility Tractor",
+          "GroupCode": "UTILITY TRACTOR - UTILITY TRACTOR",
+          "product-family-code": "UT",
+          "product-family": "UTILITY TRACTOR",
+          "product-family-display-name": "Utility Tractor",
+          "manufacturer-code": "TW",
+          "manufacturer": "TRACTOR WORLD",
+          "model": "2345",
+          "description": "Versatile utility tractor for various",
+          "serial-number": "UT789456",
+          "year": "2023",
+          "hours": 1000,
+          "city": "Farmland",
+          "state": "IA",
+          "sku": "N004|BFE|10041903",
+          "inspection-link": "https://tractorworld.com/inspection?sku=N004|BFE|10041903",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "35000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "40000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "UTILITY TRACTOR - UTILITY TRACTOR",
+              "category-display-name": "Utility Tractor"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://tractorworld.com/utility-tractor.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        }
+      ]
+    },
+    {
+      "group-code": "Generators - Générateurs",
+      "group-display-name": "Generators",
+      "count": 20,
+      "equipments": [
+        {
+          "id": "10042022",
+          "dealer-name": "POWER GENERATOR COMPANY",
+          "stock-number": "GEN123",
+          "GroupName": "Diesel Generator",
+          "GroupCode": "DIESEL GENERATOR - DIESEL GENERATOR",
+          "product-family-code": "DG",
+          "product-family": "DIESEL GENERATOR",
+          "product-family-display-name": "Diesel Generator",
+          "manufacturer-code": "PGC",
+          "manufacturer": "POWER GENERATOR COMPANY",
+          "model": "DIESEL456",
+          "description": "Diesel generator for power backup",
+          "serial-number": "GEN789",
+          "year": "2019",
+          "hours": 1500,
+          "city": "PowerCity",
+          "state": "CA",
+          "sku": "N004|BFE|10042022",
+          "inspection-link": "https://powergeneratorcompany.com/inspection?sku=N004|BFE|10042022",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "20000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "25000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "DIESEL GENERATOR - DIESEL GENERATOR",
+              "category-display-name": "Diesel Generator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://powergeneratorcompany.com/generator.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042023",
+          "dealer-name": "POWER GENERATOR COMPANY",
+          "stock-number": "GEN456",
+          "GroupName": "Gas Generator",
+          "GroupCode": "GAS GENERATOR - GAS GENERATOR",
+          "product-family-code": "GG",
+          "product-family": "GAS GENERATOR",
+          "product-family-display-name": "Gas Generator",
+          "manufacturer-code": "PGC",
+          "manufacturer": "POWER GENERATOR COMPANY",
+          "model": "GAS789",
+          "description": "Gas generator for reliable",
+          "serial-number": "GEN123",
+          "year": "2020",
+          "hours": 1200,
+          "city": "PowerCity",
+          "state": "CA",
+          "sku": "N004|BFE|10042023",
+          "inspection-link": "https://powergeneratorcompany.com/inspection?sku=N004|BFE|10042023",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "18000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "22000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "GAS GENERATOR - GAS GENERATOR",
+              "category-display-name": "Gas Generator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://powergeneratorcompany.com/gas-generator.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042024",
+          "dealer-name": "ENERGY SOLUTIONS INC.",
+          "stock-number": "GEN789",
+          "GroupName": "Portable Generator",
+          "GroupCode": "PORTABLE GENERATOR - PORTABLE GENERATOR",
+          "product-family-code": "PG",
+          "product-family": "PORTABLE GENERATOR",
+          "product-family-display-name": "Portable Generator",
+          "manufacturer-code": "ESI",
+          "manufacturer": "ENERGY SOLUTIONS INC.",
+          "model": "PORT123",
+          "description": "Compact and portable generator for",
+          "serial-number": "GEN456",
+          "year": "2021",
+          "hours": 800,
+          "city": "Energyville",
+          "state": "NY",
+          "sku": "N004|BFE|10042024",
+          "inspection-link": "https://energysolutionsinc.com/inspection?sku=N004|BFE|10042024",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "15000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "18000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "PORTABLE GENERATOR - PORTABLE GENERATOR",
+              "category-display-name": "Portable Generator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://energysolutionsinc.com/portable-generator.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042025",
+          "dealer-name": "GENERATOR PLUS",
+          "stock-number": "GEN101",
+          "GroupName": "Solar Generator",
+          "GroupCode": "SOLAR GENERATOR - SOLAR GENERATOR",
+          "product-family-code": "SG",
+          "product-family": "SOLAR GENERATOR",
+          "product-family-display-name": "Solar Generator",
+          "manufacturer-code": "GPL",
+          "manufacturer": "GENERATOR PLUS",
+          "model": "SOLAR2022",
+          "description": "Environmentally friendly solar",
+          "serial-number": "GEN2022",
+          "year": "2022",
+          "hours": 500,
+          "city": "EcoCity",
+          "state": "CA",
+          "sku": "N004|BFE|10042025",
+          "inspection-link": "https://generatorplus.com/inspection?sku=N004|BFE|10042025",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "25000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "28000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "SOLAR GENERATOR - SOLAR GENERATOR",
+              "category-display-name": "Solar Generator"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://generatorplus.com/solar-generator.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        }
+      ]
+    },
+    {
+      "group-code": "Cranes - Grues",
+      "group-display-name": "Cranes",
+      "count": 15,
+      "equipments": [
+        {
+          "id": "10042134",
+          "dealer-name": "CRANE SOLUTIONS",
+          "stock-number": "CRN101",
+          "GroupName": "Tower Crane",
+          "GroupCode": "TOWER CRANE - TOWER CRANE",
+          "product-family-code": "TC",
+          "product-family": "TOWER CRANE",
+          "product-family-display-name": "Tower Crane",
+          "manufacturer-code": "CST",
+          "manufacturer": "CRANE SOLUTIONS",
+          "model": "TC2022",
+          "description": "High-rise tower crane for construction",
+          "serial-number": "CRN2022",
+          "year": "2022",
+          "hours": 800,
+          "city": "Skyline",
+          "state": "NY",
+          "sku": "N005|BFE|10042134",
+          "inspection-link": "https://cranesolutions.com/inspection?sku=N005|BFE|10042134",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "180000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "210000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "TOWER CRANE - TOWER CRANE",
+              "category-display-name": "Tower Crane"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://cranesolutions.com/tower-crane.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042135",
+          "dealer-name": "HEAVY LIFT CRANES",
+          "stock-number": "CRN202",
+          "GroupName": "Crawler Crane",
+          "GroupCode": "CRAWLER CRANE - CRAWLER CRANE",
+          "product-family-code": "CC",
+          "product-family": "CRAWLER CRANE",
+          "product-family-display-name": "Crawler Crane",
+          "manufacturer-code": "HLC",
+          "manufacturer": "HEAVY LIFT CRANES",
+          "model": "CC4500",
+          "description": "Heavy-duty crawler crane",
+          "serial-number": "CRN4500",
+          "year": "2020",
+          "hours": 1500,
+          "city": "RuggedSite",
+          "state": "TX",
+          "sku": "N005|BFE|10042135",
+          "inspection-link": "https://heavyliftcranes.com/inspection?sku=N005|BFE|10042135",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "250000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "280000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "CRAWLER CRANE - CRAWLER CRANE",
+              "category-display-name": "Crawler Crane"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://heavyliftcranes.com/crawler-crane.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        },
+        {
+          "id": "10042136",
+          "dealer-name": "SKY HIGH CRANES",
+          "stock-number": "CRN303",
+          "GroupName": "Rough Terrain Crane",
+          "GroupCode": "ROUGH TERRAIN CRANE - ROUGH TERRAIN CRANE",
+          "product-family-code": "RTC",
+          "product-family": "ROUGH TERRAIN CRANE",
+          "product-family-display-name": "Rough Terrain Crane",
+          "manufacturer-code": "SHC",
+          "manufacturer": "SKY HIGH CRANES",
+          "model": "RTC300",
+          "description": "Versatile rough terrain crane",
+          "serial-number": "CRN300",
+          "year": "2021",
+          "hours": 1200,
+          "city": "Offroadville",
+          "state": "CA",
+          "sku": "N005|BFE|10042136",
+          "inspection-link": "https://skyhighcranes.com/inspection?sku=N005|BFE|10042136",
+          "certification": "Certified",
+          "certification-code": "CERT",
+          "availability": "Available",
+          "regular-price": {
+            "currency": "USD",
+            "text": "150000"
+          },
+          "price": {
+            "currency": "USD",
+            "text": "180000"
+          },
+          "product-family-categories": {
+            "category": {
+              "category-code": "ROUGH TERRAIN CRANE - ROUGH TERRAIN CRANE",
+              "category-display-name": "Rough Terrain Crane"
+            }
+          },
+          "photos": [
+            {
+              "text": "https://skyhighcranes.com/rough-terrain-crane.jpg"
+            }
+          ],
+          "classifications": [],
+          "specs": []
+        }
+      ]
+    }
+  ]
+}

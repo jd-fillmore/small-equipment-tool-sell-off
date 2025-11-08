@@ -1,0 +1,17 @@
+{
+  "search": "Search...",
+  "manu": "Manufacturer",
+  "prov": "Province",
+  "city": "City",
+  "price": "Max. Price (CAD)",
+  "clear": "Clear",
+  "model": "Model",
+  "desc": "Description",
+  "serial": "Serial #",
+  "regPrice": "Regular Price",
+  "salePrice": "Sale Price",
+  "prev": "Previous",
+  "next": "Next",
+  "matches": "No matches. Please try again.",
+  "loading": "Loading..."
+}

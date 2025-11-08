@@ -1,0 +1,9 @@
+@import "../../../styles/breakpoints.scss";
+@import "../../../styles/variables.scss";
+
+nav {
+  background: $red;
+  a {
+    color: $white;
+  }
+}

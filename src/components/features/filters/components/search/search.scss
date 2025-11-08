@@ -1,0 +1,18 @@
+@import "../../../../../styles/variables.scss";
+@import "../../../../../styles/breakpoints.scss";
+
+.search {
+  height: 44px !important;
+  border-radius: 25px !important;
+  margin-right: 60px !important;
+  width: 240px !important;
+}
+.search-icon {
+  margin-left: -100px;
+  margin-top: 16px;
+  color: $yellow;
+  margin-right: 100px !important;
+  @include bp-tablet-sm {
+    margin-right: 0px !important;
+  }
+}

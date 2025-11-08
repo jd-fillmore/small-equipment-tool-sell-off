@@ -1,0 +1,17 @@
+{
+  "search": "Recherche...",
+  "manu": "Fabricant",
+  "prov": "Province",
+  "city": "Ville",
+  "price": "Prix Maximum (CAD)",
+  "clear": "Supprimer",
+  "model": "Modèle",
+  "desc": "Description du modèle",
+  "serial": "Numéro de série",
+  "regPrice": "Prix régulier",
+  "salePrice": "Prix de vente",
+  "prev": "Précédent",
+  "next": "Suivant",
+  "matches": "Aucun résultat. Veuillez réessayer.",
+  "loading": "Chargement..."
+}

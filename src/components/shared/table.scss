@@ -1,0 +1,53 @@
+@import "../../styles/breakpoints.scss";
+@import "../../styles/variables.scss";
+
+.chakra-table {
+  th {
+    background: $header-grey;
+    padding: 20px;
+    &:hover {
+      cursor: pointer;
+    }
+    span {
+      margin-left: 2px;
+      &.asc, &.dsc {
+        color: $yellow;
+        
+        &.active {
+          color: $red;
+        }
+      }
+    }
+    &.sale-header {
+      background: $dark-red;
+      color: $white;
+      border: none;
+    }
+  }
+  td {
+    font-size: 12px;
+    color: $header-blue;
+    font-size: 10px;
+  }
+  a {
+    color: $red;
+    text-decoration: underline;
+  }
+  .reg-price {
+    text-decoration: line-through;
+  }
+  .sale-price {
+    background: $red;
+    color: $white;
+  }
+  .sale-price {
+    border: none;
+  }
+  .align-right {
+    text-align: right;
+  }
+}
+
+.table-loading {
+  margin-top: 40px;
+}
